@@ -7,7 +7,7 @@
  * `npm start list`
  * Running this command will call the `runListCommand` function
  */
-
+//
 // The {command} the user types in the terminal e.g. "list"
 const command = process.argv[2];
 
