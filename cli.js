@@ -8,6 +8,7 @@
  * Running this command will call the `runListCommand` function
  */
 //
+// issue 11
 // The {command} the user types in the terminal e.g. "list"
 const command = process.argv[2];
 
